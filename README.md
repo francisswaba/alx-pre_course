@@ -1,5 +1,8 @@
 # alx-pre_course
 My first repo on The ALX SE programme 
+This repo contains all that I have learned about Git and Github so far. 
+
+Below is a quick description of who I am. I copied most of the code below from the default README.md file on github. I hope you are okay with this.
 
 - 👋 Hi, I’m @francisswaba
 - 👀 I’m interested in coding...
